@@ -6,9 +6,9 @@
  * https://github.com/jitsi/lib-jitsi-meet/blob/master/doc/API.md
  */
 
-import { JitsiMeetJS } from "./@types";
+import { JitsiMeetJS } from "./types";
 
-export * from "./@types";
+export * from "./types";
 
 declare global {
   interface Window {
