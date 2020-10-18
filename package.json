@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "lib-jitsi-meet-types",
+  "name": "@aktriver/types-lib-jitsi-meet",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/aktriver/lib-jitsi-meet-types.git"
+    "url": "git+ssh://git@github.com/aktriver/types-jitsi-meet.git"
   },
   "keywords": [],
   "author": "aktriver",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/aktriver/lib-jitsi-meet-types/issues"
+    "url": "https://github.com/aktriver/types-jitsi-meet/issues"
   },
-  "homepage": "https://github.com/aktriver/lib-jitsi-meet-types#readme",
+  "homepage": "https://github.com/aktriver/types-jitsi-meet#readme",
   "devDependencies": {
     "typescript": "^4.0.3"
   }
