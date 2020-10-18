@@ -1,7 +1,7 @@
 {
   "name": "@aktriver/types-lib-jitsi-meet",
   "version": "0.0.2",
-  "description": "",
+  "description": "Type definitions for lib-jitsi-meet (incomplete, unstable).",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
@@ -16,7 +16,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/aktriver/types-jitsi-meet.git"
   },
-  "keywords": [],
+  "keywords": [
+    "lib-jitsi-meet"
+  ],
   "author": "aktriver",
   "license": "UNLICENSED",
   "bugs": {
