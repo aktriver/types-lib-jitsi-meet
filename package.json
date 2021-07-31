@@ -1,6 +1,6 @@
 {
   "name": "@aktriver/types-lib-jitsi-meet",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Type definitions for lib-jitsi-meet (incomplete, unstable).",
   "main": "index.js",
   "types": "index.d.ts",
